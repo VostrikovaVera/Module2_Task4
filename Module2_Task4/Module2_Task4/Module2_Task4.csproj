@@ -8,4 +8,9 @@
     <WarningsAsErrors />
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Helpers\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
